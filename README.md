@@ -50,6 +50,7 @@
 8. **Run the Application**: Press F5 or go to "Debug" > "Start Debugging" to run your application. Alternatively, you can press Ctrl + F5 or go to "Debug" > "Start Without Debugging" to run it without debugging.
 9. **Interact with the Console Interface**: Once the application is running, you'll see a console window with menu options. Follow the prompts to interact with the database: view records, add, update, delete, or select a record.
 10. **Exit the Application**: To exit the application, select option 6 from the menu. This will save any changes made to the database and close the program.
+11. **Add Json file**: You need to create folder with name: **[DATABASE]**, and file with name **database.json** in the same directory of program then write square brackets like that: **[]** inside the **database.json**.
 
 ( By following these steps, you'll be able to download, run, and interact with the JSON data manipulation code in Visual Studio effectively. )
 * And try to read the code and understand it
